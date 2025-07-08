@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sheikhhameed
 - 👀 I’m interested in programming software development.
 - 🌱 I’m currently learning ...python and blockchain
-- 💞️ I’m looking to collaborate on any technologies.
 - 📫 How to reach me contact me in mail
 
 <!---
